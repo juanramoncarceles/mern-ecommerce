@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce-mern-traversymedia",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramón Cárceles",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
